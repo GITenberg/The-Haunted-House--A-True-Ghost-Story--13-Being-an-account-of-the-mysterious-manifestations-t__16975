@@ -1,0 +1,30 @@
+_repo: The-Haunted-House--A-True-Ghost-Story--13-Being-an-account-of-the-mysterious-manifestations-t__16975
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hubbell, Walter
+    birthdate: 1851
+    deathdate: 1932
+    gutenberg_agent_id: '7065'
+    url: http://www.gutenberg.org/2009/agents/7065
+description: ''
+gutenberg_issued: '2005-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16975'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Cox, Esther, 1860-1912'
+- !lcsh 'Ghosts -- Nova Scotia -- Amherst'
+title: "The Haunted House: A True Ghost Story\r\nBeing an account of the mysterious\
+  \ manifestations that have taken place in the presence of Esther Cox, the young\
+  \ girl who is possessed of devils, and has become known throughout the entire dominion\
+  \ as the great Amherst mystery"
+url: http://www.gutenberg.org/ebooks/16975
